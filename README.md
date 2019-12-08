@@ -1,4 +1,4 @@
-# comp4651 project screenshots and useful configuration document
+# Comp4651 project screenshots and useful configuration document
 1. The configuration of the Kubernetes cluster: appcluster
 ![appcluster](https://raw.githubusercontent.com/ksivled/comp4651_project/master/cluster_con.PNG)
 
