@@ -8,3 +8,4 @@
 3. Deployment of the web application
 ![demo](https://raw.githubusercontent.com/ksivled/comp4651_project/master/deploy.PNG)
 
+![demo2](https://raw.githubusercontent.com/ksivled/comp4651_project/master/deploy_2.PNG)
